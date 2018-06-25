@@ -19,6 +19,11 @@ File: style.css
 /**  =====================
       Custom css start
 ==========================  **/
+
+#dom-jqry tr:hover {
+    cursor: pointer;
+}
+
 body {
   background-color: #f3f3f3;
   font-size: 0.875em;
